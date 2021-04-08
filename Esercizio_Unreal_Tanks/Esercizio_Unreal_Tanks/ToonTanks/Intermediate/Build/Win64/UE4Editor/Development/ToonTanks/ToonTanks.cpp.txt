@@ -1,0 +1,2 @@
+C:\Users\Gabriele\Desktop\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+c:\users\gabriele\desktop\toontanksprojectsetup_4.25\toontanksprojectsetup_4.25\toontanks\source\toontanks\ToonTanks.h

@@ -1,0 +1,5 @@
+C:\Users\Gabriele\Desktop\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Gabriele\Desktop\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks/PawnBase.h
+c:\users\gabriele\desktop\toontanksprojectsetup_4.25\toontanksprojectsetup_4.25\toontanks\intermediate\build\win64\ue4editor\inc\toontanks\PawnBase.generated.h

@@ -1,0 +1,7 @@
+C:\Users\Gabriele\Desktop\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+c:\users\gabriele\desktop\toontanksprojectsetup_4.25\toontanksprojectsetup_4.25\toontanks\source\toontanks\PawnBase.h
+C:\Users\Gabriele\Desktop\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\PawnBase.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
