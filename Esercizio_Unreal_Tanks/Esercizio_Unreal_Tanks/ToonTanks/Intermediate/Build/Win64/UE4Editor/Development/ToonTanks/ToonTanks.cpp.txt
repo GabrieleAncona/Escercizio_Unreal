@@ -1,2 +1,2 @@
-H:\Disco_Gabriele\New Project\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
-h:\disco_gabriele\new project\escercizio_unreal\esercizio_unreal_tanks\esercizio_unreal_tanks\toontanks\source\toontanks\ToonTanks.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\ToonTanks.h

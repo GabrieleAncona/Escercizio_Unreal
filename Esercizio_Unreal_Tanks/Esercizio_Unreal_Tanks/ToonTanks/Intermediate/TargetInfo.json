@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ToonTanks",
-			"Path": "H:\\Disco_Gabriele\\New Project\\Escercizio_Unreal\\Esercizio_Unreal_Tanks\\Esercizio_Unreal_Tanks\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Path": "C:\\Users\\gabbo\\Escercizio_Unreal\\Esercizio_Unreal_Tanks\\Esercizio_Unreal_Tanks\\ToonTanks\\Source\\ToonTanks.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ToonTanksEditor",
-			"Path": "H:\\Disco_Gabriele\\New Project\\Escercizio_Unreal\\Esercizio_Unreal_Tanks\\Esercizio_Unreal_Tanks\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Path": "C:\\Users\\gabbo\\Escercizio_Unreal\\Esercizio_Unreal_Tanks\\Esercizio_Unreal_Tanks\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

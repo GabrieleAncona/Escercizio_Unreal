@@ -1,0 +1,1049 @@
+﻿Log file open, 04/15/21 16:24:53
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.648396
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject" -Output="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Intermediate/TargetInfo.json"]
+LogInit: Warning: Incompatible or missing module: ToonTanks
+Running C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Creating makefile for ToonTanksEditor (.uproject file is newer)
+@progress push 5%
+Parsing headers for ToonTanksEditor
+  Running UnrealHeaderTool "C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\ToonTanks.uproject" "C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\gabbo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for ToonTanksEditor in 5,3630455 seconds
+@progress pop
+Building ToonTanksEditor...
+Using Visual Studio 2019 14.25.28610 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 11 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 9%
+  [1/11] Default.rc2
+  @progress 'Compiling C++ source code...' 18%
+  [2/11] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 27%
+  [3/11] ToonTanks.cpp
+  @progress 'Compiling C++ source code...' 36%
+  [4/11] PawnBase.cpp
+  C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.cpp(13): warning C4996: 'UObject::CreateAbstractDefaultSubobject': CreateAbstract did not work as intended and has been deprecated in favor of CreateDefaultObject Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.cpp(16): warning C4996: 'UObject::CreateAbstractDefaultSubobject': CreateAbstract did not work as intended and has been deprecated in favor of CreateDefaultObject Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.cpp(19): warning C4996: 'UObject::CreateAbstractDefaultSubobject': CreateAbstract did not work as intended and has been deprecated in favor of CreateDefaultObject Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.cpp(22): warning C4996: 'UObject::CreateAbstractDefaultSubobject': CreateAbstract did not work as intended and has been deprecated in favor of CreateDefaultObject Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  @progress 'Compiling C++ source code...' 45%
+  [5/11] ToonTanks.init.gen.cpp
+  @progress 'Compiling C++ source code...' 55%
+  [6/11] MyCharacter.cpp
+  @progress 'Compiling C++ source code...' 64%
+  [7/11] PawnBase.gen.cpp
+  @progress 'Compiling C++ source code...' 73%
+  [8/11] MyCharacter.gen.cpp
+  @progress 'Compiling C++ source code...' 82%
+  [9/11] UE4Editor-ToonTanks.lib
+     Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.exp
+  @progress 'Compiling C++ source code...' 91%
+  [10/11] UE4Editor-ToonTanks.dll
+     Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [11/11] ToonTanksEditor.target
+Total time in Parallel executor: 22,97 seconds
+Total execution time: 30,96 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.15-14.25.35:211][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.15-14.25.35:211][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.15-14.25.35:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.15-14.25.35:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:212][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.15-14.25.35:218][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.15-14.25.35:219][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.15-14.25.35:220][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.15-14.25.35:220][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.15-14.25.35:221][  0]LogHAL: Display: Platform has ~ 16 GB [16960446464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.15-14.25.35:221][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.15-14.25.35:221][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:221][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.15-14.25.35:221][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.15-14.25.35:221][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.15-14.25.35:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.15-14.25.35:222][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.15-14.25.35:223][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.04.15-14.25.35:223][  0]LogInit: Computer: DESKTOP-3APU18Q
+[2021.04.15-14.25.35:223][  0]LogInit: User: gabbo
+[2021.04.15-14.25.35:224][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.15-14.25.35:224][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.15-14.25.35:224][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.15-14.25.35:224][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.15-14.25.35:224][  0]LogMemory: Process Physical Memory: 126.18 MB used, 126.18 MB peak
+[2021.04.15-14.25.35:224][  0]LogMemory: Process Virtual Memory: 100.32 MB used, 100.32 MB peak
+[2021.04.15-14.25.35:224][  0]LogMemory: Physical Memory: 7732.93 MB used,  8441.81 MB free, 16174.74 MB total
+[2021.04.15-14.25.35:224][  0]LogMemory: Virtual Memory: 5231.61 MB used,  134212496.00 MB free, 134217728.00 MB total
+[2021.04.15-14.25.35:230][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.15-14.25.36:168][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.15-14.25.36:173][  0]LogInit: Using OS detected language (it-IT).
+[2021.04.15-14.25.36:173][  0]LogInit: Using OS detected locale (it-IT).
+[2021.04.15-14.25.36:180][  0]LogTextLocalizationManager: No specific localization for 'it-IT' exists, so the 'it' localization will be used.
+[2021.04.15-14.25.36:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/it/Editor.locres' could not be opened for reading!
+[2021.04.15-14.25.36:181][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/it/EditorTutorials.locres' could not be opened for reading!
+[2021.04.15-14.25.36:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/it/Keywords.locres' could not be opened for reading!
+[2021.04.15-14.25.36:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/it/Category.locres' could not be opened for reading!
+[2021.04.15-14.25.36:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/it/ToolTips.locres' could not be opened for reading!
+[2021.04.15-14.25.36:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/it/PropertyNames.locres' could not be opened for reading!
+[2021.04.15-14.25.36:182][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/it/Engine.locres' could not be opened for reading!
+[2021.04.15-14.25.36:186][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.15-14.25.36:240][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.15-14.25.36:240][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.15-14.25.36:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.15-14.25.36:550][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.15-14.25.36:550][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.15-14.25.36:550][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.15-14.25.37:665][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.15-14.25.37:665][  0]LogD3D11RHI:       5980/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.15-14.25.37:691][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.04.15-14.25.37:691][  0]LogD3D11RHI:       128/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.15-14.25.37:694][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.15-14.25.37:694][  0]LogD3D11RHI:       0/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.15-14.25.37:694][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.15-14.25.37:703][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.15-14.25.37:703][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.15-14.25.37:703][  0]LogWindows: EnumDisplayDevices:
+[2021.04.15-14.25.37:703][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.04.15-14.25.37:704][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.15-14.25.37:704][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.15-14.25.37:704][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.15-14.25.37:704][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.15-14.25.37:705][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.15-14.25.37:705][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.15-14.25.37:705][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.15-14.25.37:705][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.15-14.25.37:705][  0]LogD3D11RHI:   Driver Version: 456.87 (internal:27.21.14.5687, unified:456.87)
+[2021.04.15-14.25.37:705][  0]LogD3D11RHI:      Driver Date: 10-14-2020
+[2021.04.15-14.25.37:706][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.04.15-14.25.37:762][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.15-14.25.37:767][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2021.04.15-14.25.37:767][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.15-14.25.37:767][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.15-14.25.37:817][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.15-14.25.38:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.15-14.25.38:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.15-14.25.38:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.15-14.25.38:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.15-14.25.38:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.15-14.25.38:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.15-14.25.38:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.15-14.25.38:209][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.15-14.25.38:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.15-14.25.38:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.15-14.25.38:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.15-14.25.38:264][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.15-14.25.38:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.15-14.25.38:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.15-14.25.38:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.15-14.25.38:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.15-14.25.38:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.15-14.25.38:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.15-14.25.38:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.15-14.25.38:578][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.15-14.25.38:592][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.15-14.25.38:704][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Intermediate/Shaders/WorkingDirectory/13916/).
+[2021.04.15-14.25.38:704][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gabbo/AppData/Local/Temp/UnrealShaderWorkingDir/83941375491F41F00793E7BCDDCC21E5/'.
+[2021.04.15-14.25.38:707][  0]LogXGEController: Cleaning working directory: C:/Users/gabbo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.15-14.25.38:707][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.15-14.25.38:708][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.15-14.25.38:708][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.15-14.25.39:512][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/gabbo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gabbo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.15-14.25.39:586][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.15-14.25.39:596][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.15-14.25.39:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.15-14.25.39:596][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.15-14.25.39:597][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gabbo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.15-14.25.39:597][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.15-14.25.39:597][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.15-14.25.39:650][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.15-14.25.39:652][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.15-14.25.39:689][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2021.04.15-14.25.40:046][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.15-14.25.40:217][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.15-14.25.40:217][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.15-14.25.40:217][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.15-14.25.40:217][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.15-14.25.40:217][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.15-14.25.40:249][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 281104731)
+[2021.04.15-14.25.40:822][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000271B2906780), frame # 0
+[2021.04.15-14.25.40:822][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271B2882AC0), frame # 0
+[2021.04.15-14.25.40:825][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000271B292CA00), frame # 0
+[2021.04.15-14.25.41:014][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.170928 seconds
+[2021.04.15-14.25.41:018][  0]LogUObjectArray: 15913 objects as part of root set at end of initial load.
+[2021.04.15-14.25.41:018][  0]LogUObjectAllocator: 3964304 out of 0 bytes used by permanent object pool.
+[2021.04.15-14.25.41:018][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.15-14.25.41:715][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.15-14.25.41:726][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.15-14.25.41:920][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.41:920][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.41:942][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.41:952][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.41:969][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.42:419][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.15-14.25.42:445][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.15-14.25.42:445][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.15-14.25.42:510][  0]LogOcInput: OculusInput pre-init called
+[2021.04.15-14.25.42:527][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.15-14.25.42:527][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.15-14.25.42:626][  0]LogEngine: Initializing Engine...
+[2021.04.15-14.25.42:629][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.15-14.25.42:629][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.15-14.25.42:631][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.04.15-14.25.42:767][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.15-14.25.42:798][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.15-14.25.42:798][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000271B96B9800), frame # 0
+[2021.04.15-14.25.42:798][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271B96EA5C0), frame # 0
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.15-14.25.42:811][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.15-14.25.42:812][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.15-14.25.42:813][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.15-14.25.42:813][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.15-14.25.42:908][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.15-14.25.43:910][  0]LogAudioMixer: Display: Using Audio Device Cuffie (Realtek(R) Audio)
+[2021.04.15-14.25.43:912][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.15-14.25.43:914][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.15-14.25.43:914][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.15-14.25.43:915][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.15-14.25.43:916][  0]LogInit: FAudioDevice initialized.
+[2021.04.15-14.25.43:917][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.15-14.25.43:964][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/gabbo/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.15-14.25.44:029][  0]LogInit: Texture streaming: Enabled
+[2021.04.15-14.25.44:055][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.15-14.25.44:055][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.15-14.25.44:061][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.15-14.25.44:277][  0]LogInit: Transaction tracking system initialized
+[2021.04.15-14.25.44:327][  0]BlueprintLog: New page: Editor Load
+[2021.04.15-14.25.44:594][  0]LocalizationService: Localization service is disabled
+[2021.04.15-14.25.44:833][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.15-14.25.44:833][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.15-14.25.44:914][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Content/' took 0.00s
+[2021.04.15-14.25.45:296][  0]SourceControl: Source control is disabled
+[2021.04.15-14.25.45:296][  0]LogUnrealEdMisc: Loading editor; pre map load, took 54.766
+[2021.04.15-14.25.45:298][  0]Cmd: MAP LOAD FILE="../../../../../../Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-14.25.45:299][  0]LightingResults: New page: Lighting Build
+[2021.04.15-14.25.45:305][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-14.25.45:305][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-14.25.45:306][  0]MapCheck: New page: Map Check
+[2021.04.15-14.25.45:306][  0]LightingResults: New page: Lighting Build
+[2021.04.15-14.25.45:321][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000271B96B9800), frame # 0
+[2021.04.15-14.25.45:321][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271B96EA5C0), frame # 0
+[2021.04.15-14.25.45:322][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.15-14.25.45:457][  0]LogTexture: Display: Building textures: T_BasicGrid_M (BGRA8, 512X512)
+[2021.04.15-14.25.45:457][  0]LogTexture: Display: Building textures: T_BasicGrid_N (BC5, 1024X1024)
+[2021.04.15-14.25.45:457][  0]LogMaterial: Display: Missing cached shader map for material M_GridBase, compiling. 
+[2021.04.15-14.25.45:526][  0]LogMaterial: Display: Missing cached shader map for material M_GridBase, compiling. 
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 29
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.04.15-14.25.45:556][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.04.15-14.25.45:558][  0]LogAIModule: Creating AISystem for world Main
+[2021.04.15-14.25.45:558][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000271A6114400), frame # 0
+[2021.04.15-14.25.45:558][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271B3199940), frame # 0
+[2021.04.15-14.25.45:568][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-14.25.45:584][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.04.15-14.25.45:587][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-14.25.45:587][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,439ms to complete.
+[2021.04.15-14.25.45:587][  0]LogFileHelpers: Loading map 'Main' took 0.290
+[2021.04.15-14.25.45:606][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 47
+[2021.04.15-14.25.45:606][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.076
+[2021.04.15-14.25.45:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.15-14.25.45:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.15-14.25.45:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.15-14.25.45:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.15-14.25.45:834][  0]LogCollectionManager: Loaded 0 collections in 0.002912 seconds
+[2021.04.15-14.25.45:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Saved/Collections/' took 0.00s
+[2021.04.15-14.25.45:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Content/Developers/gabbo/Collections/' took 0.00s
+[2021.04.15-14.25.45:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Content/Collections/' took 0.00s
+[2021.04.15-14.25.45:880][  0]LogContentBrowser: Native class hierarchy populated in 0.0222 seconds. Added 3429 classes and 823 folders.
+[2021.04.15-14.25.45:897][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2021.04.15-14.25.46:112][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.04.15-14.25.46:158][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.04.15-14.25.47:027][  0]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.15-14.25.47:034][  0]LogSlate: Took 0.001149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.15-14.25.47:047][  0]LogSlate: Took 0.000887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.15-14.25.47:221][  0]LogRenderer: Reallocating scene render targets to support 936x420 Format 10 NumSamples 1 (Frame:1).
+[2021.04.15-14.25.47:379][  0]LogSlate: Took 0.000792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.15-14.25.47:471][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2021.04.15-14.25.47:471][  0]LogLoad: (Engine Initialization) Total time: 56.94 seconds
+[2021.04.15-14.25.47:471][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.15-14.25.47:548][  0]LogAssetRegistry: Asset discovery search completed in 7.8613 seconds
+[2021.04.15-14.25.47:559][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000254 seconds (updated 0 objects)
+[2021.04.15-14.25.47:569][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.15-14.25.49:355][110]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.04.15-14.25.50:680][218]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2021.04.15-14.25.51:086][250]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.04.15-14.25.51:191][258]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.04.15-14.25.51:715][302]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2021.04.15-14.25.52:148][338]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.04.15-14.25.53:369][439]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.04.15-14.25.53:385][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2021.04.15-14.25.53:448][442]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.04.15-14.25.54:549][530]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.04.15-14.25.54:749][546]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.04.15-14.25.55:165][581]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.04.15-14.25.55:558][610]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.04.15-14.25.55:761][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.15-14.25.55:863][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.04.15-14.25.55:912][638]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.04.15-14.25.56:134][656]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.15-14.26.56:309][408]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.15-14.26.56:327][408]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/ToonTanks.PawnBase
+[2021.04.15-14.26.56:331][408]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.04.15-14.26.56:336][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:336][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:336][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:337][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:338][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:339][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:340][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:341][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:342][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:343][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:344][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:345][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:346][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:347][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:347][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:347][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:347][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:349][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:357][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:374][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:384][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:395][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:395][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:412][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:423][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:424][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:425][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:425][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:425][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:427][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:427][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:427][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:429][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:430][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:430][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:431][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:432][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:432][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:432][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:432][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:435][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:435][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:435][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:442][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:443][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:443][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.26.56:443][408]LogVSAccessor: Warning: Couldn't access module table
+[2021.04.15-14.27.03:789][256]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.04.15-14.27.03:789][256]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.04.15-14.27.03:812][256]LogSlate: Took 0.000755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.15-14.27.13:163][355]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.04.15-14.27.24:023][654]Running C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject" -game -rocket -progress
+[2021.04.15-14.27.24:430][654]Discovering modules, targets and source code for project...
+[2021.04.15-14.27.26:142][654]Binding IntelliSense data...
+[2021.04.15-14.27.29:066][654]Binding IntelliSense data... 100%
+[2021.04.15-14.27.29:066][654]Writing project files...
+[2021.04.15-14.27.33:196][654]Writing project files... 100%
+[2021.04.15-14.27.33:300][654]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.04.15-14.27.33:307][654]Candidate modules for hot reload:
+[2021.04.15-14.27.33:307][654]  ToonTanks
+[2021.04.15-14.27.33:307][654]Launching UnrealBuildTool... [C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7419 ToonTanksEditor Win64 Development -Project="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject" "C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: New page: Compilation - 15 apr 2021, 18:27:46
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Creating makefile for ToonTanksEditor (no existing makefile)
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\ToonTanks.uproject" "C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\gabbo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5,6216267 seconds
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Building ToonTanksEditor...
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Using Visual Studio 2019 14.25.28610 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [2/6] TestActor.cpp
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [3/6] TestActor.gen.cpp
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-7419.lib
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:      Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7419.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7419.exp
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-7419.dll
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:      Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7419.suppressed.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7419.suppressed.exp
+[2021.04.15-14.27.46:317][654]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Total time in Parallel executor: 4,96 seconds
+[2021.04.15-14.27.46:317][654]CompilerResultsLog: Total execution time: 12,63 seconds
+[2021.04.15-14.27.46:317][654]LogMainFrame: MainFrame: Module compiling took 13.017 seconds
+[2021.04.15-14.27.46:422][654]LogClass: Could not find existing class TestActor in package /Script/ToonTanks for HotReload, assuming new class
+[2021.04.15-14.27.46:428][654]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 3 classes and 2 folders.
+[2021.04.15-14.27.46:429][654]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.15-14.27.46:464][654]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3430 classes and 823 folders.
+[2021.04.15-14.27.46:465][654]Display: HotReload took 13.2s.
+[2021.04.15-14.27.46:469][654]Warning: HotReload operation took 13.2s.
+[2021.04.15-14.27.46:635][654]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.04.15-14.27.46:643][654]LogHotReload: New module detected: UE4Editor-ToonTanks-7419.dll
+[2021.04.15-14.27.46:716][655]LogHotReload: Starting Hot-Reload from IDE
+[2021.04.15-14.27.46:832][655]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0012 seconds. Added 3 classes and 2 folders.
+[2021.04.15-14.27.46:834][655]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.15-14.27.46:849][655]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 3430 classes and 823 folders.
+[2021.04.15-14.27.46:854][655]Display: HotReload took  0.1s.
+[2021.04.15-14.29.25:525][ 28]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/ToonTanks.PawnBase
+[2021.04.15-14.29.25:756][ 28]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Source/ToonTanks/PawnBase.h'
+[2021.04.15-14.29.25:869][ 28]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/Source/ToonTanks/PawnBase.cpp'
+[2021.04.15-14.41.25:348][263]LogTemp: Resetting audio stream to device id 
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 1: FrontRight
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 4: BackLeft
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 5: BackRight
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 6: SideLeft
+[2021.04.15-14.41.25:376][263]LogAudioMixer: Display: 7: SideRight
+[2021.04.15-14.41.37:965][270]LogTemp: Resetting audio stream to device id 
+[2021.04.15-14.41.38:017][270]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 1: FrontRight
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 4: BackLeft
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 5: BackRight
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 6: SideLeft
+[2021.04.15-14.41.38:018][270]LogAudioMixer: Display: 7: SideRight
+[2021.04.15-14.41.38:293][272]LogHttp: Warning: 00000271A6322B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE03CCE3D-4C4C-B9CB-BEAA-B28EF581647F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=eb7e51f44d62fc6f6ed36d85c1f7965d%7C8ee76fc537f644d79e79ea7f8a9d4984%7Cee536c91-f821-431f-a46b-485111403c5e&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: libcurl info message cache 0 (Connection 6 seems to be dead!)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: libcurl info message cache 1 (Closing connection 6)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: 00000271A6322B00: libcurl info message cache 4 (Closing connection 7)
+[2021.04.15-14.41.38:294][272]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE03CCE3D-4C4C-B9CB-BEAA-B28EF581647F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=eb7e51f44d62fc6f6ed36d85c1f7965d%7C8ee76fc537f644d79e79ea7f8a9d4984%7Cee536c91-f821-431f-a46b-485111403c5e&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.04.15-14.42.24:255][408]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.15-14.42.24:255][408]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.15-14.42.27:695][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PawnTank.BP_PawnTank
+[2021.04.15-14.42.28:051][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2021.04.15-14.42.30:800][971]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.04.15-14.42.33:768][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PawnTurret.BP_PawnTurret
+[2021.04.15-14.42.48:297][ 17]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-14.42.48:297][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-14.42.48:358][ 17]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PawnTank.BP_PawnTank
+[2021.04.15-14.42.50:792][259]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-14.42.50:792][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-14.42.50:845][259]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_PawnTurret.BP_PawnTurret
+[2021.04.15-14.42.53:538][532]LogRenderer: Reallocating scene render targets to support 936x536 Format 10 NumSamples 1 (Frame:1).
+[2021.04.15-14.43.18:657][370]LogSlate: Took 0.001067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.15-14.56.08:289][720]LogHotReload: New module detected: UE4Editor-ToonTanks-0002.dll
+[2021.04.15-14.56.08:969][723]LogHotReload: Starting Hot-Reload from IDE
+[2021.04.15-14.56.11:262][723]LogClass: Could not find existing class PawnBase in package /Script/ToonTanks for HotReload, assuming new class
+[2021.04.15-14.56.11:271][723]LogHotReload: Re-instancing PawnBase after hot-reload.
+[2021.04.15-14.56.11:339][723]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2021.04.15-14.56.11:343][723]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.04.15-14.56.11:414][723]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3430 classes and 823 folders.
+[2021.04.15-14.56.11:419][723]Display: HotReload took  2.4s.
+[2021.04.15-14.56.16:498][739]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.15-14.56.16:498][739]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.04.15-14.56.21:030][267]Candidate modules for hot reload:
+[2021.04.15-14.56.21:030][267]  ToonTanks
+[2021.04.15-14.56.21:030][267]Launching UnrealBuildTool... [C:/Users/gabbo/OneDrive/Desktop/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,4523 ToonTanksEditor Win64 Development -Project="C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject" "C:/Users/gabbo/Escercizio_Unreal/Esercizio_Unreal_Tanks/Esercizio_Unreal_Tanks/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.04.15-14.56.21:033][267]Warning: Starting HotReload took  0.0s.
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: New page: Compilation - 15 apr 2021, 18:56:23
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: Building ToonTanksEditor...
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: Using Visual Studio 2019 14.25.28610 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: Building 3 actions with 12 processes...
+[2021.04.15-14.56.23:754][545]CompilerResultsLog:   [1/3] UE4Editor-ToonTanks-4523.lib
+[2021.04.15-14.56.23:754][545]CompilerResultsLog:      Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4523.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4523.exp
+[2021.04.15-14.56.23:754][545]CompilerResultsLog:   [2/3] UE4Editor-ToonTanks-4523.dll
+[2021.04.15-14.56.23:754][545]CompilerResultsLog:      Creazione della libreria C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4523.suppressed.lib e dell'oggetto C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-4523.suppressed.exp
+[2021.04.15-14.56.23:754][545]CompilerResultsLog:   [3/3] ToonTanksEditor.target
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: Total time in Parallel executor: 1,51 seconds
+[2021.04.15-14.56.23:754][545]CompilerResultsLog: Total execution time: 2,58 seconds
+[2021.04.15-14.56.23:754][545]LogMainFrame: MainFrame: Module compiling took 2.729 seconds
+[2021.04.15-14.56.24:011][545]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.15-14.56.24:012][545]LogWindows: Windows GetLastError: Operazione completata. (0)

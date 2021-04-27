@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ToonTanks.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8E2A567A-021C-4DAB-9617-8540043BE1DF}</UniqueIdentifier>
+      <UniqueIdentifier>{986E721B-7912-495B-B243-DB427D77ACBD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ToonTanks.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{025C85C0-ACA4-4D5E-A395-98947A59910C}</UniqueIdentifier>
+      <UniqueIdentifier>{BD3A143E-5D5E-4E3C-8EC6-DF637829B20E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ToonTanks">
-      <UniqueIdentifier>{B4062954-100C-483D-9B00-6D6726A76D2B}</UniqueIdentifier>
+      <UniqueIdentifier>{716DC227-0097-4301-AC9B-ACE39C861031}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ToonTanks\MyCharacter.cpp">
       <Filter>Source\ToonTanks</Filter>
@@ -39,6 +39,24 @@
       <Filter>Source\ToonTanks</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\ToonTanks\PawnBase.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\PawnTank.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\PawnTank.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\PawnTurret.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\PawnTurret.h">
+      <Filter>Source\ToonTanks</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ToonTanks\TestActor.cpp">
+      <Filter>Source\ToonTanks</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ToonTanks\TestActor.h">
       <Filter>Source\ToonTanks</Filter>
     </ClInclude>
     <None Include="..\..\Source\ToonTanks\ToonTanks.Build.cs">
