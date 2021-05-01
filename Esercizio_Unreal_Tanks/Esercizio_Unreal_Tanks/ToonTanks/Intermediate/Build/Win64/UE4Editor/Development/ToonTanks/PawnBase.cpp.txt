@@ -5,3 +5,5 @@ C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Com
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks/Actors/ProjectileBase.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ProjectileBase.generated.h

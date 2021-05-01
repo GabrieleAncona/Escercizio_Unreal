@@ -1,5 +1,8 @@
-C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\MyCharacter.h
-C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.h
-C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\TestActor.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\Actors\ProjectileBase.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\GameModes\TankGameModeBase.h
 C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnTank.h
 C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnTurret.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\TestActor.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\MyCharacter.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\PawnBase.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\Components\HealthComponent.h

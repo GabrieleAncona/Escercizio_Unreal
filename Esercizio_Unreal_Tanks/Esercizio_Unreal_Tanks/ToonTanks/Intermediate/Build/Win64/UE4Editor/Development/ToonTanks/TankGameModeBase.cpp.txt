@@ -1,0 +1,7 @@
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Source\ToonTanks\GameModes\TankGameModeBase.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\gabbo\Escercizio_Unreal\Esercizio_Unreal_Tanks\Esercizio_Unreal_Tanks\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\TankGameModeBase.generated.h
