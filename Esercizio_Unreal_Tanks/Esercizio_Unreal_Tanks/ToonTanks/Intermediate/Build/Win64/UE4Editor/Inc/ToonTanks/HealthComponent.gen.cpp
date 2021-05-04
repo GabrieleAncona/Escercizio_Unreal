@@ -24,13 +24,13 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 	DEFINE_FUNCTION(UHealthComponent::execTakeDamage)
 	{
 		P_GET_OBJECT(AActor,Z_Param_DamagedActor);
-		P_GET_PROPERTY(FFloatProperty,Z_Param_damage);
+		P_GET_PROPERTY(FFloatProperty,Z_Param_Damage);
 		P_GET_OBJECT(UDamageType,Z_Param_DamageType);
 		P_GET_OBJECT(AController,Z_Param_InstigatedBy);
 		P_GET_OBJECT(AActor,Z_Param_DamageCauser);
 		P_FINISH;
 		P_NATIVE_BEGIN;
-		P_THIS->TakeDamage(Z_Param_DamagedActor,Z_Param_damage,Z_Param_DamageType,Z_Param_InstigatedBy,Z_Param_DamageCauser);
+		P_THIS->TakeDamage(Z_Param_DamagedActor,Z_Param_Damage,Z_Param_DamageType,Z_Param_InstigatedBy,Z_Param_DamageCauser);
 		P_NATIVE_END;
 	}
 	void UHealthComponent::StaticRegisterNativesUHealthComponent()
@@ -46,7 +46,7 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 		struct HealthComponent_eventTakeDamage_Parms
 		{
 			AActor* DamagedActor;
-			float damage;
+			float Damage;
 			const UDamageType* DamageType;
 			AController* InstigatedBy;
 			AActor* DamageCauser;
@@ -57,7 +57,7 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DamageType_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DamageType;
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_damage;
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_Damage;
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_DamagedActor;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 #if WITH_METADATA
@@ -73,13 +73,13 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamageType = { "DamageType", nullptr, (EPropertyFlags)0x0010000000000082, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(HealthComponent_eventTakeDamage_Parms, DamageType), Z_Construct_UClass_UDamageType_NoRegister, METADATA_PARAMS(Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamageType_MetaData, UE_ARRAY_COUNT(Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamageType_MetaData)) };
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_damage = { "damage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(HealthComponent_eventTakeDamage_Parms, damage), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_Damage = { "Damage", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(HealthComponent_eventTakeDamage_Parms, Damage), METADATA_PARAMS(nullptr, 0) };
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamagedActor = { "DamagedActor", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(HealthComponent_eventTakeDamage_Parms, DamagedActor), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(nullptr, 0) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamageCauser,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_InstigatedBy,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamageType,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_damage,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_Damage,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_UHealthComponent_TakeDamage_Statics::NewProp_DamagedActor,
 	};
 #if WITH_METADATA
@@ -121,7 +121,7 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ToonTanks,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UHealthComponent_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UHealthComponent_TakeDamage, "TakeDamage" }, // 4294117849
+		{ &Z_Construct_UFunction_UHealthComponent_TakeDamage, "TakeDamage" }, // 1175649013
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UHealthComponent_Statics::Class_MetaDataParams[] = {
@@ -168,7 +168,7 @@ void EmptyLinkFunctionForGeneratedCodeHealthComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UHealthComponent, 461541824);
+	IMPLEMENT_CLASS(UHealthComponent, 3198484644);
 	template<> TOONTANKS_API UClass* StaticClass<UHealthComponent>()
 	{
 		return UHealthComponent::StaticClass();

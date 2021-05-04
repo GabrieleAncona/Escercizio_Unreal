@@ -39,11 +39,11 @@ private:
 
 public:
 	APawnTank();
+	virtual void HandleDestruction() override;
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	virtual void HandleDestruction() override;
 
 public:
 	// Called every frame
