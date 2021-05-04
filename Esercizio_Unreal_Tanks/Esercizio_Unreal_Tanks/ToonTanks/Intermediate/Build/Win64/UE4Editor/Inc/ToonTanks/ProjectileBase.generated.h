@@ -73,9 +73,14 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectileBase); \
 #define ToonTanks_Source_ToonTanks_Actors_ProjectileBase_h_13_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ProjectileMovement() { return STRUCT_OFFSET(AProjectileBase, ProjectileMovement); } \
 	FORCEINLINE static uint32 __PPO__ProjectileMesh() { return STRUCT_OFFSET(AProjectileBase, ProjectileMesh); } \
+	FORCEINLINE static uint32 __PPO__ParticleTrail() { return STRUCT_OFFSET(AProjectileBase, ParticleTrail); } \
 	FORCEINLINE static uint32 __PPO__DamageType() { return STRUCT_OFFSET(AProjectileBase, DamageType); } \
 	FORCEINLINE static uint32 __PPO__MovementSpeed() { return STRUCT_OFFSET(AProjectileBase, MovementSpeed); } \
-	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AProjectileBase, Damage); }
+	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AProjectileBase, Damage); } \
+	FORCEINLINE static uint32 __PPO__HitParticle() { return STRUCT_OFFSET(AProjectileBase, HitParticle); } \
+	FORCEINLINE static uint32 __PPO__HitSound() { return STRUCT_OFFSET(AProjectileBase, HitSound); } \
+	FORCEINLINE static uint32 __PPO__LaunchSound() { return STRUCT_OFFSET(AProjectileBase, LaunchSound); } \
+	FORCEINLINE static uint32 __PPO__HitShake() { return STRUCT_OFFSET(AProjectileBase, HitShake); }
 
 
 #define ToonTanks_Source_ToonTanks_Actors_ProjectileBase_h_10_PROLOG

@@ -30,6 +30,7 @@ private:
 	float RotateSpeed = 100.0f;
 
 	APlayerController* PlayerControllerRef;
+	bool bIsPlayerAlive = true;
 
 	void CalculateMoveDirection(float Value);
 	void CalculateRotationDirection(float Value);
@@ -40,6 +41,7 @@ private:
 public:
 	APawnTank();
 	virtual void HandleDestruction() override;
+	bool GetIsPlayerAlive();
 
 protected:
 	// Called when the game starts or when spawned

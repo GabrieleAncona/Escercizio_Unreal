@@ -16,3 +16,10 @@ C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Edito
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+C:\Users\gabbo\OneDrive\Desktop\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
